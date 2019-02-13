@@ -5,6 +5,8 @@ def hello_t(arg)
     yield arg[i]
     i += 1
   end
+  
+  arg
 end
 
 # call your method here!
