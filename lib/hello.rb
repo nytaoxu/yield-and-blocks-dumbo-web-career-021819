@@ -9,7 +9,7 @@ def hello_t(arg)
     
     arg
   else
-    puts "no block given."
+    puts "Hey! No block was given!"
   end
 end
 
